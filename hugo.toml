@@ -1,0 +1,7 @@
+baseURL = 'https://gallery.lukerand.com/'
+languageCode = 'en-us'
+title = 'Luke Rand Gallery'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
